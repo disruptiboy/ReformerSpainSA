@@ -61,4 +61,4 @@ jobs:
           app-name: 'ReformerSpainSA-Frontend'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BE23CC210004709881C69BFD7190B9A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_113BC8B57FBB4FCEA352D7808EB140F8 }}
